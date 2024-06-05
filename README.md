@@ -17,9 +17,6 @@
 - numpy 1.21.6
 - matplotlib 3.5.3
 
-Please check *requirements.txt* for other packages.
-
-
 ## Run
 
 ```
